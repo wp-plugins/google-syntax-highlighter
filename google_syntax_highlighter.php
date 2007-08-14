@@ -1,11 +1,11 @@
 <?php
 /*
-Plugin Name: Google Syntax Highlighter
-Plugin URI: 
-Description: 
+Plugin Name: Google Syntax Highlighter for WordPress
+Plugin URI: http://wordpress.org/extend/plugins/google-syntax-highlighter
+Description: 100% JavaScript syntax highlighter This plugin makes using the <a href="http://code.google.com/p/syntaxhighlighter">Google Syntax highlighter</a> to highlight code snippets within WordPress simple. Supports C++, C#, CSS, Delphi, Java, JavaScript, PHP, Python, Ruby, SQL, VB, XML, and HTML. Read  <a href="http://code.google.com/p/syntaxhighlighter/wiki/Usage">usage directions.</a> 
+Version: 1.5.1
 Author: Peter Ryan 
-Version: 1.0
-Author URI: www.peterryan.net
+Author URI: http://www.peterryan.net
 */
 
 function insert_header() {
