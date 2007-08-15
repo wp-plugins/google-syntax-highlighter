@@ -1,6 +1,6 @@
 === Google Syntax Highlighter for WordPress ===
 Contributors: peterryan
-Tags: code, syntax, highlighter, javascript, blog, html
+Tags: code, syntax, highlighter, javascript, blog, html, Formatting, post, google
 Requires at least:2.0.0
 Tested up to: 2.2.2
 Stable tag: 1.5.1
